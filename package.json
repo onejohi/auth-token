@@ -28,7 +28,7 @@
   "homepage": "https://github.com/itonnie/token-authentication-system#readme",
   "dependencies": {
     "body-parser": "^1.18.2",
-    "express": "^4.16.1",
+    "express": "^4.17.3",
     "jsonwebtoken": "^8.0.1",
     "mongoose": "^4.11.10"
   }
